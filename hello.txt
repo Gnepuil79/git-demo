@@ -3,3 +3,5 @@ Here is new add.	master test
 hot-fix modify!!!!!	hot-fix test
 *****Remote modify*****
 -----xiaoming modify-----
+
+new add : @#$%^&*
